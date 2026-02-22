@@ -1,0 +1,32 @@
+# ════════════════════════════════════════════════════════════════
+#  NEXUS - API Keys Configuration
+#  Made by: Amanullah Khan (github: amanullahykhan)
+# ════════════════════════════════════════════════════════════════
+#
+#  HOW TO GET FREE KEYS:
+#  Gemini    -> https://aistudio.google.com/app/apikey   (free, no card)
+#  OpenRouter-> https://openrouter.ai                    (free tier, 24 models)
+#
+#  INSTRUCTIONS:
+#  1. Replace the placeholder values below with your real keys
+#  2. Save this file in the same folder as self_learning_agent.py
+#  3. Run: python self_learning_agent.py
+#
+#  DO NOT commit this file to GitHub! Add .env.nexus to .gitignore
+# ════════════════════════════════════════════════════════════════
+
+# ── Gemini API Keys (add up to 19 for higher rate limits) ────────
+# Get free key: https://aistudio.google.com/app/apikey
+GEMINI_KEY_1=YOUR_GEMINI_API_KEY_HERE
+
+# Add more keys for higher throughput (optional)
+# GEMINI_KEY_2=YOUR_SECOND_GEMINI_KEY_HERE
+# GEMINI_KEY_3=YOUR_THIRD_GEMINI_KEY_HERE
+
+# ── OpenRouter API Key (optional, 24 free cloud models) ──────────
+# Get free key: https://openrouter.ai
+# OPENROUTER_KEY=YOUR_OPENROUTER_KEY_HERE
+
+# ── Custom Ollama URL (optional, default is localhost) ────────────
+# Change only if Ollama runs on a different machine or port
+# OLLAMA_URL=http://localhost:11434
