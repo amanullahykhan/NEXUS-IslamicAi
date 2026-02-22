@@ -1,0 +1,30 @@
+# ── API Keys & Secrets ───────────────────────────────────────────
+.env.nexus
+.env
+*.env
+
+# ── NEXUS Database (personal, stays local) ───────────────────────
+nexus_memory.db
+*.db
+
+# ── Python ───────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# ── OS junk ──────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE files ────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+
+
+
+
