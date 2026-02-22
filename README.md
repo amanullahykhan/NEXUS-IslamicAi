@@ -348,6 +348,7 @@ All AI-generated content should be treated as a starting point for research, not
 
 - 🐙 GitHub: [@amanullahykhan](https://github.com/amanullahykhan)
 - 📧 Email: [amanullahykhan@gmail.com](mailto:amanullahykhan@gmail.com)
+- Support me : Jazzcash / EasyPaisa : +92-324-3362515
 
 ---
 
