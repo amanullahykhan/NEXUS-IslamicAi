@@ -15,6 +15,13 @@ Answers Islamic questions with Quran citations, Hadith references, and 4-Madhab 
 
 </div>
 
+<br/><br/>
+<img width="100%" height="472" alt="image" src="https://github.com/user-attachments/assets/6f8c1168-61d2-41fa-b12b-a3619b07940c" />
+<br/><br/>
+<img width="100%" height="438" alt="image" src="https://github.com/user-attachments/assets/8575013f-73b9-4adf-8466-d93281b9cc12" />
+
+
+
 ---
 
 ## 📖 Purpose
